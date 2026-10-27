@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Omar, a third year college student looking for work in the gaming industry.
+I'm Omar, a third year computer science major at the University of Central Florida looking for work in the gaming industry.
+
+I have been a gamer since I was just 4 years old and have been playing video games ever since. I have tons of experience across many different genres, including competing in some games at the highest level of play.
+
+## My languages
