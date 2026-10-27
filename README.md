@@ -19,3 +19,8 @@ I'm Omar, a third year computer science major at the University of Central Flori
 I have been a gamer since I was just 4 years old and have been playing video games ever since. I have tons of experience across many different genres, including competing in some games at the highest level of play.
 
 ## My languages
+* C
+* C++
+* Python
+* Java
+I am open to learning any programming language for a job, these are the one I am most comfortable with.
