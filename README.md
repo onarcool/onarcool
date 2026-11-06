@@ -35,4 +35,5 @@ I am open to learning any programming language for a job, these are the ones I a
 * I have an older brother who is also in college and is doing computer engineering.
 * My current favorite games are Street Fighter 6, League of Legends, Geometry Dash, and Deadlock.
 * I am a big fan of basketball, anime, and Esports.
+* I have won fighting game tournaments in 2XKO, Street Fighter 6, Dragon Ball FighterZ, and Marvel Tokon: Fighting Souls
 * I entered my first ever offline fighting game tournament in 2023 at 16 years old and I placed 49th out of around 1080 other competitors.
